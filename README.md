@@ -1,4 +1,4 @@
 # CtoS_MathFnctns
-In the context of C-to-Silicon using SystemC
-log2fix.cpp - implements the log2 function for fixed-point arithmetic.
+In the context of C-to-Silicon using SystemC,
+log2fix.cpp - implements the log2 function for fixed-point arithmetic and
 fix_div.cpp - implements fixed-point airthmetic division.
